@@ -1,0 +1,41 @@
+title: Pwndevils Alpha 1.0
+markdown: kramdown
+url: ""
+baseurl: "/jekyll-theme-dark-reader"
+#NEED TO PUT DOMAIN NAME HERE
+
+# for atom feed
+author:
+  name: Erin Ozcan
+  email: ebozcan@asu.edu
+
+plugins:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+paginate_path: "/page:num/"
+
+paginate: 5
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:categories/:year/:month/:day/:title/
+
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
