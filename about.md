@@ -3,7 +3,7 @@ title: Sharad Raj
 layout: about
 profile_pic: "https://www.codingindian.codes/assets/uploads/pro.jpg"
 profile_pic_alt: ""
-short_bio: Hi there POOPthis is Sharad, the developer of this theme.
+short_bio: Hi there this is Sharad, the developer of this theme.
 ---
 
 This is long bio.
