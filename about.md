@@ -1,12 +1,28 @@
 ---
 title: About Pwndevils
 layout: about
-profile_pic: "assets/photos/pwndevils.png"
+profile_pic: "assets/photos/pwndevils2.png"
 profile_pic_alt: ""
-short_bio: Pwndevils History
+short_bio: About pwndevils
 ---
- Pwndevils is a team that exists.
+# pwndevils History
 
-[Our Twitter](https://www.google.com) 
-[Our Slack](https://www.google.com)
-[Our Discord](https://www.google.com)
+The pwndevils team was started in 2009 by [Mike Mabey](https://mikemabey.com/) and [Dr. Gail-Joon Ahn](http://www.public.asu.edu/~gahn1/), however it ended up dormant until revived in 2015 by Mike Mabey and [Dr. Adam Doupé](https://adamdoupe.com/). Dr. Doupé has continued to act as the Advisor of the club. [Dr. Yan Shoshitaishvili](http://www.yancomm.net/) has been added as an advisor of the club since Fall of 2017. You can find our constition [here](google.com) TODO.
+
+# Faculty Advisors
+
+The pwndevils would not exist without the support of the following faculty members (who try to hack right alongside the team)
+#### Adam Doupe WILL ADD ACCENT
+![Octocat](assets/photos/adam.jpg)
+ 
+#### Yan Shoshitaishvili
+![Octocat](assets/photos/yan.jpg)
+
+# Leadership
+
+**Root:** Zion Basque
+ 
+**V33P:** Nathan Smith
+
+**Banker:** Erin Ozcan 
+
