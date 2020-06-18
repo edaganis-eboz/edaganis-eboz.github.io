@@ -1,9 +1,9 @@
 ---
 title: About Pwndevils
 layout: about
-profile_pic: "https://ctftime.org/media/cache/77/56/775685598b6acee53aa9fa3404ce88a8.png"
+profile_pic: "assets/photos/pwndevils.png"
 profile_pic_alt: ""
-short_bio:Pwndevils History
+short_bio: Pwndevils History
 ---
  Pwndevils is a team that exists.
 
