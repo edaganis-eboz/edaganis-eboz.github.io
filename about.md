@@ -1,12 +1,12 @@
 ---
 title: About Pwndevils
 layout: about
-profile_pic: "https://www.codingindian.codes/assets/uploads/pro.jpg"
+profile_pic: "assets/photos/pwndevils.png"
 profile_pic_alt: ""
-short_bio:poop Hi there this is Sharad, the developer of this theme.
+short_bio:Pwndevils History
 ---
  Pwndevils is a team that exists.
 
-[Our Twitter](http://instagram.com/codingindian) 
-[Our Slack](http://linkedin.com/in/srsmaurya)
-[Our Discord](http://github.com/sharadcodes)
+[Our Twitter](https://www.google.com) 
+[Our Slack](https://www.google.com)
+[Our Discord](https://www.google.com)
