@@ -1,7 +1,7 @@
 ---
 title: About Pwndevils
 layout: about
-profile_pic: "assets/photos/pwndevils.png"
+profile_pic: "pwndevils.png"
 profile_pic_alt: ""
 short_bio:Pwndevils History
 ---
