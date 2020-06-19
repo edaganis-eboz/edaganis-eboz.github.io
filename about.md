@@ -7,17 +7,23 @@ short_bio: About pwndevils
 ---
 # pwndevils History
 
-The pwndevils team was started in 2009 by [Mike Mabey](https://mikemabey.com/) and [Dr. Gail-Joon Ahn](http://www.public.asu.edu/~gahn1/), however it ended up dormant until revived in 2015 by Mike Mabey and [Dr. Adam Doupé](https://adamdoupe.com/). Dr. Doupé has continued to act as the Advisor of the club. [Dr. Yan Shoshitaishvili](http://www.yancomm.net/) has been added as an advisor of the club since Fall of 2017. You can find our constition [here](google.com) TODO.
+The pwndevils team was started in 2009 by [Mike Mabey](https://mikemabey.com/) and [Dr. Gail-Joon Ahn](http://www.public.asu.edu/~gahn1/), however it ended up dormant until revived in 2015 by Mike Mabey and [Dr. Adam Doupé](https://adamdoupe.com/). Dr. Doupé has continued to act as the Advisor of the club. [Dr. Yan Shoshitaishvili](http://www.yancomm.net/) has been added as an advisor of the club since Fall of 2017. You can find our constitution [here](./const.html).
 
 # Faculty Advisors
 
 The pwndevils would not exist without the support of the following faculty members (who try to hack right alongside the team)
-#### Adam Doupe WILL ADD ACCENT
+
+|  Adam Doupé |  Yan Shoshitaishvili |
+|:-------------|:------------------|
+| ![Octocat](assets/photos/adam.jpg) | ![Octocat](assets/photos/yan.jpg) |
+
+
+<!-- #### Adam Doupé
 ![Octocat](assets/photos/adam.jpg)
  
 #### Yan Shoshitaishvili
 ![Octocat](assets/photos/yan.jpg)
-
+-->
 # Leadership
 
 **Root:** Zion Basque
@@ -25,4 +31,5 @@ The pwndevils would not exist without the support of the following faculty membe
 **V33P:** Nathan Smith
 
 **Banker:** Erin Ozcan 
+
 

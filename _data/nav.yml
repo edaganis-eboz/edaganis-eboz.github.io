@@ -3,6 +3,11 @@ list:
     url: ""
   - title: About
     url: about
+  - title: Contact Us
+    url: contact_us
+  - title: Lessons/Writeups
+    url: lessons
   - title: Feed
     url: feed.xml
     target: "_blank"
+
