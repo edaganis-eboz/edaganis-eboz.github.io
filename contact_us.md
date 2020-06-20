@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-layout: default
+layout: contact
 ---
 We primarily use discord to communicate about and during CTF competitions. MORE TEXT NEEDED. INC EMAILS?
 

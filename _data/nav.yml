@@ -7,7 +7,7 @@ list:
     url: contact_us
   - title: Lessons/Writeups
     url: lessons
-  - title: Feed
-    url: feed.xml
-    target: "_blank"
+  - title: Calendar
+    url: calendar
+    
 

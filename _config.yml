@@ -26,6 +26,10 @@ collections:
     output: true
   projects:
     output: true
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
 
 defaults:
   - scope:
