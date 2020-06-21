@@ -29,8 +29,8 @@ pwndevil officers make things go: they organize meetings, get food for meetings 
 
 |     |     |
 |:----|:----|
-|**Root:**| Zion Basque - mahaloz|
-|**V33P:**| Nathan Smith - Pascal|
-|**Banker:**| Erin Ozcan - Eboz| 
+|**Root:**|Zion Basque|
+|**V33P:**|Nathan Smith|
+|**Banker:**|Erin Ozcan| 
 
 

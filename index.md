@@ -3,7 +3,7 @@ title: Welcome to the pwndevils website!
 layout: contact
 ---
 
-You have reached the amazingly awesome page of the pwndevils, a hacking group started at Arizona State University. We love learning about computer systems and competing in [Capture the Flag]("https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security") to demonstrate our computer security knowledge.
+You have reached the amazingly awesome page of the pwndevils, a hacking group started at Arizona State University. We love learning about computer systems and competing in [Capture the Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) to demonstrate our computer security knowledge.
 
 
 <!--
