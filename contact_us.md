@@ -6,3 +6,4 @@ We primarily use discord to communicate about and during CTF competitions. MORE 
 
 [Our Twitter](https://www.twitter.com/pwndevils) 
 [Our Discord](https://discord.gg/MeMcTvj)
+[Our Email](https://google.com)
