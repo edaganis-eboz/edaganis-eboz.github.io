@@ -6,6 +6,6 @@ We primairly use discord to communicate meetup and CTF times. We also use discor
 
 [Our Twitter](https://www.twitter.com/pwndevils) 
 [Our Discord](https://discord.gg/MeMcTvj)
-[Zion's Email](https://google.com)
-[Nathan's Email](https://google.com)
-[Erin's Email](mailto:ebozcan@asu.edu)
+[Zion Email](mailto:zionbasque@asu.edu)
+[Nathan Email](mailto:Nathan.K.Smith@asu.edu)
+[Erin Email](mailto:ebozcan@asu.edu)
