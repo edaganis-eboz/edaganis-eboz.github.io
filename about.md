@@ -25,11 +25,12 @@ The pwndevils would not exist without the support of the following faculty membe
 ![Octocat](assets/photos/yan.jpg)
 -->
 # Leadership
+pwndevil officers make things go: they organize meetings, get food for meetings (yay), and are generally awesome people. 
 
-**Root:** Zion Basque
- 
-**V33P:** Nathan Smith
-
-**Banker:** Erin Ozcan 
+|     |     |
+|:----|:----|
+|**Root:**| Zion Basque - mahaloz|
+|**V33P:**| Nathan Smith - Pascal|
+|**Banker:**| Erin Ozcan - Eboz| 
 
 
