@@ -32,14 +32,14 @@ nav {
 }
 
 nav a {
-	color: #72b6b5 !important;
+	color: #ffc72c !important;
 	padding-right: 2rem;
 	font-size: 1rem;
 	font-weight: bold;
 }
 
 nav a:hover {
-	text-decoration: underline !important;
+	text-decoration: underline !important; 
 }
 
 /* main */
@@ -60,7 +60,7 @@ main {
 .post-list a {
 	text-decoration: none;
 	position: relative;
-	color: #f78e66 !important;
+	color: #ffc72c !important;
 	/* color: #72b6b5 !important; */
 }
 
@@ -91,7 +91,7 @@ main {
 
 footer {
 	font-weight: bold;
-	color: #72b6b5;
+	color: #717d7e;
 	font-size: 0.7rem;
 	margin: 4rem 20% 4rem 20%;
 }
