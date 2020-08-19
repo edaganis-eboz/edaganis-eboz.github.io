@@ -15,7 +15,7 @@ The pwndevils would not exist without the support of the following faculty membe
 
 |  Adam Doupé |  Yan Shoshitaishvili | Fish Wang |
 |:-------------|:------------------|:--------------------|
-| <img src="assets/photos/adam.jpg" width="200"> | <img src="assets/photos/yan2.png" width="200"> | <img src="assets/photos/fish.png" width="200">|
+| <img src="assets/photos/adam.jpg" width="400"> | <img src="assets/photos/yan2.png" width="400"> | <img src="assets/photos/fish.png" width="400">|
 
 <!--
 | ![Octocat](assets/photos/adam.jpg) | ![Octocat](assets/photos/yan2.png) | ![Octocat](assets/photos/fish.png)|
