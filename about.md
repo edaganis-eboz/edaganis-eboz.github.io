@@ -13,7 +13,7 @@ The pwndevils team was started in 2009 by [Mike Mabey](https://mikemabey.com/) a
 
 The pwndevils would not exist without the support of the following faculty members (who try to hack right alongside the team)
 
-|  Adam Doupé |  Yan Shoshitaishvili | Fish |
+|  Adam Doupé |  Yan Shoshitaishvili | Fish Wang |
 |:-------------|:------------------|:--------------------|
 | <img src="assets/photos/adam.jpg" width="200"> | <img src="assets/photos/yan2.png" width="200"> | <img src="assets/photos/fish.png" width="200">|
 
